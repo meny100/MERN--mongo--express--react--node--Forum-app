@@ -1,0 +1,8 @@
+
+{
+  "jwtKey": "MyPrivateMSForumKey",
+   "username": "menys",
+    "password": "mongM308",
+    "cluster": "cluster0.t9gj1",
+    "dbname": "ms_forum"
+}
